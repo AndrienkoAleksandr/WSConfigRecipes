@@ -24,7 +24,6 @@
   "defaultEnv": "default",
   "projects": [],
   "name": "fedora_24",
-  "commands": [
-  ],
+  "commands": [],
   "links": []
 }
