@@ -25,12 +25,6 @@
   "projects": [],
   "name": "fedora_24",
   "commands": [
-    {
-      "commandLine": "mysql -u $MYSQL_USER -p$MYSQL_PASSWORD -e 'show databases;'",
-      "name": "show databases",
-      "attributes": {},
-      "type": "custom"
-    }
   ],
   "links": []
 }
